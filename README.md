@@ -49,12 +49,11 @@ Topics covered:
 
 Project Structure
 
-spark-learning/
-│
-├── 01_Spark_Session.ipynb
-├── 02_Basic_Transformations_1.ipynb
-├── 03_Spark_SQL_DataFrame.ipynb
-└── README.md
+spark-learning
+01_Spark_Session.ipynb
+02_Basic_Transformations_1.ipynb
+03_Spark_SQL_DataFrame.ipynb
+README.md
 
 Learning Objective
 
